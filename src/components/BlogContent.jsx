@@ -19,7 +19,9 @@ const BlogContent = (props) => {
                   <Link to="/about" className="text-xl font-bold text-white">
                     Muhammad Ridwan Ali Raharja
                   </Link>
-                  <p className="text-base font-light text-gray-400">Student</p>
+                  <p className="text-base font-light text-gray-400">
+                    Front-End Developer
+                  </p>
                   <p className="text-base font-light text-gray-400">
                     August 8, 2022
                   </p>
